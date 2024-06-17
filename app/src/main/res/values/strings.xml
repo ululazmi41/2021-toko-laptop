@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Toko Laptop</string>
+    <string name="laptop_name">Nama Laptop</string>
+    <string name="detail">Detail</string>
+    <string name="laptop">Laptop</string>
+    <string name="tentang">Tentang</string>
+    <string name="ulul_azmi">Ulul Azmi</string>
+    <string name="email">ululazmi4bs@gmail.com</string>
+    <string name="share">Share</string>
+</resources>
